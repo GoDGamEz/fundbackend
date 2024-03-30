@@ -3377,3 +3377,6 @@
 20240329	00:08:17	1cbd3af1-f74d-4394-8cdb-32b9576eaf68	POST	http://localhost:5173	/auth
 20240329	00:10:45	ea8756bc-3e30-436e-a518-3226934fe85e	OPTIONS	http://localhost:5173	/auth
 20240329	00:10:45	10eab3a8-ae6e-4b9e-a9b8-51e7ab5f6a11	POST	http://localhost:5173	/auth
+20240330	17:54:24	34de0aac-9e07-440e-a116-4c2dc6f740b7	GET	undefined	/
+20240330	17:54:24	41c8d196-6a1f-4bcf-ab17-94b8bf2f53a9	GET	undefined	/css/style.css
+20240330	17:54:33	03bb8831-3ec3-4269-aa32-9362ca0170f2	GET	undefined	/auth
